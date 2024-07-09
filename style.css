@@ -22,6 +22,7 @@ html,body{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 6vw 0;
 }
 
 .container{
